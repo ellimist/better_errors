@@ -9,3 +9,5 @@ gem "pry", "0.9.12"
 gem "simplecov"
 gem "yard"
 gem "kramdown"
+
+gem "rubysl", platform: :rbx
